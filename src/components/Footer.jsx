@@ -23,7 +23,7 @@ const Footer = () => {
               href="#home" 
               className="text-2xl font-bold text-white hover:text-blue-400 transition-colors"
             >
-              Dipin
+             dipinkarunakaran6@gmail.com
             </a>
             <p className="text-gray-400 mt-2">Full-stack Developer</p>
           </div>
